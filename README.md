@@ -4,7 +4,7 @@ This admin-panel was built to showcase skills in React, Next.js, and Material-UI
 - Role - Frontend
 
 # ONLINE DEMO
-[![ONLINE-DEMO](https://img.shields.io/badge/online-Demo-green)](https://shop-flame-pi.vercel.app/)
+[![ONLINE-DEMO](https://img.shields.io/badge/online-Demo-green)](https://admin-panel-xi-murex.vercel.app/)
 # Technologies Used:
  React , Next.Js , MUI 
  # SCREEN-SHOT
