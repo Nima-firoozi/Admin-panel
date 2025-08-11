@@ -178,14 +178,20 @@ export default function SellersPage() {
       </Box>
       <Box
         sx={{
-          width: "48%",
+          width: {
+            xs: "100%",
+            md: "48%",
+          },
           height: "400px",
         }}>
         <SalesTrendChart />
       </Box>
       <Box
         sx={{
-          width: "48%",
+          width: {
+            xs: "100%",
+            md: "48%",
+          },
           height: "220px",
           background: theme.palette.background.paper,
         }}>
