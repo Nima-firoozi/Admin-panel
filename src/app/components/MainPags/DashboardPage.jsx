@@ -2,7 +2,7 @@
 
 import React from "react";
 import { Box, Typography, Paper, Button } from "@mui/material";
-import { styled, useTheme, width } from "@mui/system";
+import { styled, useTheme } from "@mui/system";
 import { BarChart, LineChart } from "@mui/x-charts";
 
 const WelcomeCard = styled(Paper)({
