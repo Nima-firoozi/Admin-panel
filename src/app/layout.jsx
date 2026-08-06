@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 //dont give up
+//dont give up
 
 export const metadata = {
   title: "Admin-panel",
